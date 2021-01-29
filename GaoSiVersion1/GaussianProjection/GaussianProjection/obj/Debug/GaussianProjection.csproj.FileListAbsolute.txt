@@ -1,0 +1,7 @@
+C:\Users\CHAOS\Desktop\GaoSiVersion1\GaussianProjection\GaussianProjection\bin\Debug\GaussianProjection.exe.config
+C:\Users\CHAOS\Desktop\GaoSiVersion1\GaussianProjection\GaussianProjection\bin\Debug\GaussianProjection.exe
+C:\Users\CHAOS\Desktop\GaoSiVersion1\GaussianProjection\GaussianProjection\bin\Debug\GaussianProjection.pdb
+C:\Users\CHAOS\Desktop\GaoSiVersion1\GaussianProjection\GaussianProjection\obj\Debug\GaussianProjection.csprojAssemblyReference.cache
+C:\Users\CHAOS\Desktop\GaoSiVersion1\GaussianProjection\GaussianProjection\obj\Debug\GaussianProjection.csproj.CoreCompileInputs.cache
+C:\Users\CHAOS\Desktop\GaoSiVersion1\GaussianProjection\GaussianProjection\obj\Debug\GaussianProjection.exe
+C:\Users\CHAOS\Desktop\GaoSiVersion1\GaussianProjection\GaussianProjection\obj\Debug\GaussianProjection.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussianProjection", "GaussianProjection\GaussianProjection.csproj", "{015D0762-8243-4DC6-96A4-ED840C555C50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015D0762-8243-4DC6-96A4-ED840C555C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015D0762-8243-4DC6-96A4-ED840C555C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015D0762-8243-4DC6-96A4-ED840C555C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015D0762-8243-4DC6-96A4-ED840C555C50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F6FC86E-9D1C-46C2-A8F0-5E0F130706F1}
+	EndGlobalSection
+EndGlobal
